@@ -428,6 +428,7 @@ void main_page::display(string dayTime) {
             break;
         case 3:
             shop::welcomeToShop();
+            break;
         case 4:
             quote::updateQuote();
             display(updateTime());
