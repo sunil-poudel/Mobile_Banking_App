@@ -537,6 +537,7 @@ void quizGame::startQuiz(){
                 char d;
                 cin>>d;
                 summaryOfQuiz();
+                break;
             }
             justMessage();
         }
